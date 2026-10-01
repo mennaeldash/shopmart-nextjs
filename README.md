@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ShopMart – E-Commerce Web Application
 
-## Getting Started
+A modern and responsive e-commerce web application built with Next.js, TypeScript, Tailwind CSS, authentication, form validation, and reusable UI components.
 
-First, run the development server:
+The project focuses on creating a smooth shopping experience with clean interfaces, responsive layouts, and scalable frontend architecture.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Responsive design for desktop, tablet, and mobile
+- Product browsing and product details
+- Category-based navigation
+- Shopping cart functionality
+- Wishlist functionality
+- Authentication
+- Form validation
+- Reusable UI components
+- Responsive navigation menus
+- Toast notifications
+- Carousel and interactive UI elements
+- Clean and modern e-commerce interface
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Next.js
+- React.js
+- TypeScript
+- Tailwind CSS
+- NextAuth
+- React Hook Form
+- Zod
+- Radix UI
+- Lucide React
+- Embla Carousel
+- React Hot Toast
+- Git
+- GitHub
 
-## Learn More
+## Authentication
 
-To learn more about Next.js, take a look at the following resources:
+The application includes authentication functionality using NextAuth to manage user access and authentication-related flows.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Form Validation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Forms are handled using React Hook Form with Zod validation to provide structured and reliable user input validation.
 
-## Deploy on Vercel
+## Responsive Design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The application is optimized for different screen sizes, with focus on:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Mobile-friendly navigation
+- Flexible layouts
+- Responsive product cards
+- Adaptive forms
+- Consistent spacing
+- Reusable responsive components
+
+## UI Components
+
+The project uses reusable and accessible UI components to create a consistent design system across the application.
+
+## Project Purpose
+
+This project was developed to demonstrate modern frontend development using Next.js, TypeScript, authentication, validation, responsive design, and reusable component architecture.
+
+## Author
+
+**Menna Mohamed Eldash**
+
+Front-End Developer
